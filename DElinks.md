@@ -209,4 +209,3 @@
  * [https://casapi.vinkchemicals.com/gendatasheet/UKP36?language=DE](https://casapi.vinkchemicals.com/gendatasheet/UKP36?language=DE)
  * [https://casapi.vinkchemicals.com/gendatasheet/B019?language=DE](https://casapi.vinkchemicals.com/gendatasheet/B019?language=DE)
  * [https://casapi.vinkchemicals.com/gendatasheet/RSM027?language=DE](https://casapi.vinkchemicals.com/gendatasheet/RSM027?language=DE)
-![image](https://user-images.githubusercontent.com/7886676/113129131-d7aa4f80-921a-11eb-958b-8b202cda0a37.png)
